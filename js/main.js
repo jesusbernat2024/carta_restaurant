@@ -1,5 +1,5 @@
 // URL del fitxer XML al teu repositori
-const url = 'https://raw.githubusercontent.com/usuari/repositori/main/data.xml';
+const url = 'https://raw.github.com/jesusbernat2024/carta_restaurant/main/carta.xml';
 
 fetch(url)
   .then(response => response.text())
